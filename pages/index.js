@@ -25,7 +25,7 @@ export default function Home() {
             <a href="https://www.instagram.com/makatihouse" title="instagram makatihouse">
               <FontAwesomeIcon icon={faInstagram} size="xs" /> 
             </a>
-            <a href="https://www/facebook.com/makatihouseph" title="facebook makatihouse">
+            <a href="https://www.facebook.com/makatihouseph" title="facebook makatihouse">
               <FontAwesomeIcon icon={faFacebook} size="xs" />
             </a>
           </div>
