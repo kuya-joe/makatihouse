@@ -17,7 +17,8 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          We are a club on clubhouse that want to promote Filipinos helping Filipinos. We discuss about the economy, politics, and startups. Everyone is welcome to get to know us by <a href="https://joinclubhouse.com/club/makati-house">joining us on clubhouse</a>.
+          We are a club on clubhouse that want to promote Filipinos helping Filipinos. We discuss about the economy, politics, and startups. 
+          <wbr>Everyone is welcome <a href="https://joinclubhouse.com/club/makati-house">join us on clubhouse</a>. Listen to our podcast on <a href="https://open.spotify.com/show/1U34EiVaYTEU8FCGAWyCpv?si=HjK8p40QSVuch-wjPbWAZQ&dl_branch=1" title="MakatiHouse now on Spotify!">Spotify</a>!
         </p>
 
         <div className="grid">
@@ -30,6 +31,7 @@ export default function Home() {
             </a>
           </div>
         </div>
+        
         
       </main>
 
